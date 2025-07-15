@@ -25,14 +25,3 @@ A sleek, performant, and responsive e-commerce web application built using React
 - Build Tool: Vite  
 - Version Control: Git, GitHub
 
----
-🗂️ Folder Structure
-E--Commerce-store/
-└── frontend/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   ├── pages/
-    │   └── App.jsx
-    ├── package.json
-    └── vite.config.js
